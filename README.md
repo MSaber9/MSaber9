@@ -1,4 +1,4 @@
-## Hello World .. 👋, I'm Mohamed Saber <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello World .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I'm Mohamed Saber 👋
 
 A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Data analysis 📜 , Cloud computing :cloud:, IoT 🚀,  Innovation and Automation :new:
 
