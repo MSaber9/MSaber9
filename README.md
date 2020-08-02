@@ -8,7 +8,7 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 - 🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
 
 ## Interested:
-- 🎯 Deep learning in cybersecurity, Time series analysis, Anomaly detection, IoT and Blockchain
+- 🎯 Deep learning in cybersecurity, Artificial Neural Network, Time series analysis, Anomaly detection, IoT and Blockchain
 
 ## Intership:
 - 📚 Machine Learning on Microsoft Azure, Udacity
@@ -27,6 +27,25 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 - Machine Learning
 - Deep Learning
 
+**✨ Tech stacks currently using** <br>
+<br>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://jupyter.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://java.com/en/download/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+ 
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://www.oracle.com/database/technologies/developer-tools/adf/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svgg"></a></code>
+<code><a href="https://databricks.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></a></code>
+
+<br>
+<br>
+<br>
 
 <!--
 **MSaber9/MSaber9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
