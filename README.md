@@ -1,6 +1,6 @@
-## Hello there .. 👋, I'm Mohamed Saber <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello World .. 👋, I'm Mohamed Saber <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-A Machine Learning engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:
+A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 IoT, :new: Innovation and Automation 
 
 
 <!--
