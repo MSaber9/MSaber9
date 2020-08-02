@@ -1,7 +1,7 @@
 ## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Mohamed Saber 👋
   
   <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
-    <img align="left" alt="MSaber9 | Yourclaim" width="81px" src="https://github.com/MSaber9/MSaber9/blob/master/yourclaim1.png" />
+    <img align="left" alt="MSaber9 | Yourclaim" width="80px" src="https://github.com/MSaber9/MSaber9/blob/master/yourclaim1.png" />
   </a>
   
   <a href="https://medium.com/@m.saber">
