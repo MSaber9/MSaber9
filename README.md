@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://www.quora.com/profile/Mohamed-Saber-19">
-    <img align="left" alt="MSaber9 | Quora " width="60px" src="https://github.com/MSaber9/MSaber9/blob/master/Quora.png" />
+    <img align="left" alt="MSaber9 | Quora " width="56px" src="https://github.com/MSaber9/MSaber9/blob/master/Quora.png" />
   </a> 
   
   <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
