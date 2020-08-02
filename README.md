@@ -54,7 +54,7 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
+    <img align="left" alt="Piyush Pravin | Instagram" width="50px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
   </a> 
 <br>
 <br>
