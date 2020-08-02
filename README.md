@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://medium.com/@m.saber">
-    <img align="left" alt="MSaber9 | Medium " width="70px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
+    <img align="left" alt="MSaber9 | Medium " width="80px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
   </a> 
   
    <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
