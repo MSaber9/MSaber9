@@ -1,5 +1,22 @@
 ## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Mohamed Saber 👋
 
+
+<br>
+<br> 
+  <a href="mailto:m.saber87@hotmail.com">
+    <img align="left" alt="MSaber9 | Hotmail" width="40px" src="https://github.com/MSaber9/MSaber9/blob/master/Hotmail.png" />
+  </a>
+  <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
+    <img align="left" alt="MSaber9 | Yourclaim" width="100px" src="https://github.com/MSaber9/MSaber9/blob/master/yourclaim1.png" />
+  </a>
+  <a href="https://medium.com/@m.saber">
+    <img align="left" alt="MSaber9 | Medium " width="100px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
+  </a> 
+<br>
+<br>
+
+
+
 A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Data analysis 📜 , Cloud computing :cloud:, IoT 🚀,  Innovation and Automation :new:
 
 - 🎓 MSc Machine Learning and Data Analysis at ITMO University, Russia 
@@ -42,19 +59,7 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 <code><a href="https://www.oracle.com/database.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
 <code><a href="https://databricks.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></a></code>
 
-<br>
-<br> 
-  <a href="mailto:m.saber87@hotmail.com">
-    <img align="left" alt="MSaber9 | Hotmail" width="40px" src="https://github.com/MSaber9/MSaber9/blob/master/Hotmail.png" />
-  </a>
-  <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
-    <img align="left" alt="MSaber9 | Yourclaim" width="100px" src="https://github.com/MSaber9/MSaber9/blob/master/yourclaim1.png" />
-  </a>
-  <a href="https://medium.com/@m.saber">
-    <img align="left" alt="MSaber9 | Medium " width="100px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
-  </a> 
-<br>
-<br>
+
 
 
 
