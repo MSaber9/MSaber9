@@ -44,14 +44,11 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 
 <br>
 <br> 
-  <a href="https://in.linkedin.com/in/piyushp7pravin">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
   <a href="mailto:m.saber87@hotmail.com">
-    <img align="left" alt="Piyush Pravin | Hotmail" width="70px" src="https://github.com/MSaber9/MSaber9/blob/master/Hotmail.png" />
+    <img align="left" alt="Piyush Pravin | Hotmail" width="50px" src="https://github.com/MSaber9/MSaber9/blob/master/Hotmail.png" />
   </a>
   <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
-    <img align="left" alt="Piyush Pravin | Yourclaim" width="70px" src="https://github.com/MSaber9/MSaber9/blob/master/yourclaim.png" />
+    <img align="left" alt="Piyush Pravin | Yourclaim" width="100px" src="https://github.com/MSaber9/MSaber9/blob/master/yourclaim.png" />
   </a>
   <a href="https://www.youracclaim.com/users/mohamed-saber.83994bcf/badges">
     <img align="left" alt="Piyush Pravin | Instagram" width="70px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
