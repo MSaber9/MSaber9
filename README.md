@@ -9,7 +9,7 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## Interested: 💎
-- 🎯 Artificial Neural Network, Deep learning in cybersecurity, Time series analysis, Anomaly detection, IoT and Blockchain
+- 🎯 Artificial Neural Network, Deep learning in Cybersecurity, Time series analysis, Anomaly Detection, IoT and Blockchain
 
 ## Intership:
 - 📚 Machine Learning on Microsoft Azure, Udacity
