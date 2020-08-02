@@ -2,18 +2,18 @@
 
 A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Data analysis 📜 , Cloud computing :cloud:, IoT 🚀,  Innovation and Automation :new:
 
-🎓 MSc Machine Learning and Data Analysis at ITMO University, Russia 
-🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
+- 🎓 MSc Machine Learning and Data Analysis at ITMO University, Russia 
+- 🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
 
 
 - 🎯 Interested: 
 Deep learning in cybersecurity, IoT, Blockchain
 
-- 📚 Intership:
+-- Intership:
 - Machine Learning on Microsoft Azure, Udacity
-📚 Intel Edge AI fundamental, Udacity
-📚 Big Data Science track at National Telecommunications Institute (NTI), Egypt
-📚 Business Processing Management (BPM), IBM Cognos Analytics and Blockchain at IBM Egypt
+- 📚 Intel Edge AI fundamental, Udacity
+- 📚 Big Data Science track at National Telecommunications Institute (NTI), Egypt
+- 📚 Business Processing Management (BPM), IBM Cognos Analytics and Blockchain at IBM Egypt
 
 - 🌱 I’m currently learning Deep Reinforcement Learning
 
