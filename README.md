@@ -10,13 +10,6 @@
     <img align="left" alt="MSaber9 | Yourclaim" width="90px" src="https://github.com/MSaber9/MSaber9/blob/master/yourclaim1.png" />
   </a>
   
-  <a href="https://www.quora.com/profile/Mohamed-Saber-19">
-    <img align="left" alt="MSaber9 | Quora " width="65px" src="https://github.com/MSaber9/MSaber9/blob/master/Quora.png" />
-  </a> 
-  
-  <a href="https://medium.com/@m.saber">
-    <img align="left" alt="MSaber9 | Medium " width="80px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
-  </a> 
 <br>
 <br>
 <br>
@@ -87,4 +80,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+ <a href="https://www.quora.com/profile/Mohamed-Saber-19">
+    <img align="left" alt="MSaber9 | Quora " width="65px" src="https://github.com/MSaber9/MSaber9/blob/master/Quora.png" />
+  </a> 
+  
+  <a href="https://medium.com/@m.saber">
+    <img align="left" alt="MSaber9 | Medium " width="80px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
+  </a> 
 -->
