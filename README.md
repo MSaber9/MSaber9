@@ -6,11 +6,11 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 - 🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
 
 
-- 🎯 Interested: 
-Deep learning in cybersecurity, IoT, Blockchain
+### Interested: 
+- 🎯 Deep learning in cybersecurity, IoT, Blockchain
 
--- Intership:
-- Machine Learning on Microsoft Azure, Udacity
+### Intership:
+- 📚 Machine Learning on Microsoft Azure, Udacity
 - 📚 Intel Edge AI fundamental, Udacity
 - 📚 Big Data Science track at National Telecommunications Institute (NTI), Egypt
 - 📚 Business Processing Management (BPM), IBM Cognos Analytics and Blockchain at IBM Egypt
