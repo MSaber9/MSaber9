@@ -11,7 +11,7 @@
   </a>
   
   <a href="https://www.quora.com/profile/Mohamed-Saber-19">
-    <img align="left" alt="MSaber9 | Quora " width="57px" src="https://github.com/MSaber9/MSaber9/blob/master/Quora.png" />
+    <img align="left" alt="MSaber9 | Quora " width="65px" src="https://github.com/MSaber9/MSaber9/blob/master/Quora.png" />
   </a> 
   
   <a href="https://medium.com/@m.saber">
