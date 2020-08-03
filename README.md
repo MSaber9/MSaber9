@@ -20,8 +20,8 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## Interested: 💎
-- 🎯 Artificial Neural Network, Deep learning in Cybersecurity, Time series analysis, Anomaly Detection, IoT and Blockchain
+## Technologies :fire:
+- 🎯 Machine Learning, Data Analysis, Deep learning, Time series analysis, Anomaly Detection
 
 ## Intership:
 - 📚 Machine Learning on Microsoft Azure, Udacity
@@ -32,19 +32,11 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 ## Learning 👓
 - 🌱 I’m currently learning Deep Reinforcement Learning
 
-## Technologies :fire:
-- Python.
-- Java
-- Data Analysis
-- Data Science.
-- Machine Learning
-- Deep Learning
-
 ## Languages and Tools: 🛠 
 <br>
 <br>
-<code><a href="https://java.com/en/download/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://java.com/en/download/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
