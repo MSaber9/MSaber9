@@ -35,7 +35,7 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 ## Technologies :fire:
 - Python.
 - Java
-- Data Analysis with Python
+- Data Analysis
 - Data Science.
 - Machine Learning
 - Deep Learning
