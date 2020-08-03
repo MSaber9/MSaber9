@@ -35,7 +35,7 @@ A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I l
 ## Languages and Tools: 🛠 
 <br>
 <br>
-<code><a href="https://java.com/en/download/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://java.com/en/download/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
