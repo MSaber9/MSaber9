@@ -14,8 +14,7 @@
 
 A Machine Learning engineer passionate :robot: and Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Data analysis 📜 , Cloud computing :cloud:, IoT 🚀,  Innovation and Automation :new:
 
-- 🎓 MSc Machine Learning and Data Analysis at ITMO University, Russia 
-- 🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
+
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -76,3 +75,6 @@ Here are some ideas to get you started:
     <img align="left" alt="MSaber9 | Medium " width="80px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
  </a> 
 -->
+
+- 🎓 MSc Machine Learning and Data Analysis at ITMO University, Russia 
+- 🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
