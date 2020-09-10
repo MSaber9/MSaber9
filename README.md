@@ -74,7 +74,9 @@ Here are some ideas to get you started:
  <a href="https://medium.com/@m.saber">
     <img align="left" alt="MSaber9 | Medium " width="80px" src="https://github.com/MSaber9/MSaber9/blob/master/Medium.png" />
  </a> 
+ 
+ - 🎓 MSc Machine Learning and Data Analysis at ITMO University, Russia 
+- 🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
 -->
 
-- 🎓 MSc Machine Learning and Data Analysis at ITMO University, Russia 
-- 🎓 Postgraduate Diploma in computer science at Cairo University, Egypt
+
